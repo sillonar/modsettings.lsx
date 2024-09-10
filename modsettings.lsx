@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="7" revision="1" build="3" />
+  <region id="ModuleSettings">
+    <node id="root">
+      <children>
+        <node id="Mods">
+          <children>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="GustavDev" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="GustavDev" />
+              <attribute id="PublishHandle" type="uint64" value="0" />
+              <attribute id="UUID" type="guid" value="28ac9ce2-2aba-8cda-b3b5-6e922f71b6b8" />
+              <attribute id="Version64" type="int64" value="145100393449790344" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="BG3MCM" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Mod Configuration Menu" />
+              <attribute id="PublishHandle" type="uint64" value="0" />
+              <attribute id="UUID" type="guid" value="755a8a72-407f-4f0d-9a33-274ac0f0b53d" />
+              <attribute id="Version64" type="int64" value="37858384367583233" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="TransmogEnhanced" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="TransmogEnhanced" />
+              <attribute id="PublishHandle" type="uint64" value="0" />
+              <attribute id="UUID" type="guid" value="82c1f53b-5ed3-4e2e-95f5-f84ca6ff0c81" />
+              <attribute id="Version64" type="int64" value="36169538802286592" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="Fallen_Mark_As_Read" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Mark Book As Read" />
+              <attribute id="PublishHandle" type="uint64" value="0" />
+              <attribute id="UUID" type="guid" value="c72d9f6a-a6e4-48b1-98c0-0ecdc7c31cf7" />
+              <attribute id="Version64" type="int64" value="36591757709803521" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="AddonBetterInventoryUI_8c7d3408-a746-5022-348b-1635e14af044" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="AddonBetterInventoryUI" />
+              <attribute id="PublishHandle" type="uint64" value="4180899" />
+              <attribute id="UUID" type="guid" value="8c7d3408-a746-5022-348b-1635e14af044" />
+              <attribute id="Version64" type="int64" value="36310287028060160" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="BCPP_16x9_6chars_6251de75-b041-e761-c329-b3fdc23a2da8" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="BCPP_16x9_6chars" />
+              <attribute id="PublishHandle" type="uint64" value="4168371" />
+              <attribute id="UUID" type="guid" value="6251de75-b041-e761-c329-b3fdc23a2da8" />
+              <attribute id="Version64" type="int64" value="36873232686514176" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="BagOfHolding_3c0d5efc-3e23-3ecb-89f8-c5678ebd26db" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Bag Of Holding" />
+              <attribute id="PublishHandle" type="uint64" value="4242396" />
+              <attribute id="UUID" type="guid" value="3c0d5efc-3e23-3ecb-89f8-c5678ebd26db" />
+              <attribute id="Version64" type="int64" value="36028799166447629" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="ImpUI_26922ba9-6018-5252-075d-7ff2ba6ed879" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="ImpUI (ImprovedUI)" />
+              <attribute id="PublishHandle" type="uint64" value="4138213" />
+              <attribute id="UUID" type="guid" value="26922ba9-6018-5252-075d-7ff2ba6ed879" />
+              <attribute id="Version64" type="int64" value="36732490903191592" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="BetterCombatLog85scale_63dc902e-90eb-7bb8-1e88-831caad5144a" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Better Combat Log 2" />
+              <attribute id="PublishHandle" type="uint64" value="4199417" />
+              <attribute id="UUID" type="guid" value="63dc902e-90eb-7bb8-1e88-831caad5144a" />
+              <attribute id="Version64" type="int64" value="36310284880576522" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="BetterContainers_cb42bc3a-f1d2-7d9d-16a2-2800154f099a" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Better Containers" />
+              <attribute id="PublishHandle" type="uint64" value="4190260" />
+              <attribute id="UUID" type="guid" value="cb42bc3a-f1d2-7d9d-16a2-2800154f099a" />
+              <attribute id="Version64" type="int64" value="37013972322353153" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="BetterContextMenu_f9dd909a-3607-f8e1-da13-b795884f68b5" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Better Context Menu" />
+              <attribute id="PublishHandle" type="uint64" value="4202580" />
+              <attribute id="UUID" type="guid" value="f9dd909a-3607-f8e1-da13-b795884f68b5" />
+              <attribute id="Version64" type="int64" value="36310287028060166" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="BetterDyeing_03b0b84a-2689-77c2-5ef6-ebcf88b88037" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Better Dyeing" />
+              <attribute id="PublishHandle" type="uint64" value="4202819" />
+              <attribute id="UUID" type="guid" value="03b0b84a-2689-77c2-5ef6-ebcf88b88037" />
+              <attribute id="Version64" type="int64" value="36310282733092867" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="BetterHotbar2_a43f8334-d0cd-b6b9-4c9f-3914e868e6fa" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Better Hotbar 2" />
+              <attribute id="PublishHandle" type="uint64" value="4199527" />
+              <attribute id="UUID" type="guid" value="a43f8334-d0cd-b6b9-4c9f-3914e868e6fa" />
+              <attribute id="Version64" type="int64" value="36591766299738116" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="BetterInventoryUI_6b585be8-ed73-7347-2c58-73146e22b7d4" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Better Inventory UI" />
+              <attribute id="PublishHandle" type="uint64" value="4228735" />
+              <attribute id="UUID" type="guid" value="6b585be8-ed73-7347-2c58-73146e22b7d4" />
+              <attribute id="Version64" type="int64" value="36451022368931847" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="BetterMap_02ffe10e-ac53-8877-a3d5-3098fdbb8f5b" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Better Map" />
+              <attribute id="PublishHandle" type="uint64" value="4214933" />
+              <attribute id="UUID" type="guid" value="02ffe10e-ac53-8877-a3d5-3098fdbb8f5b" />
+              <attribute id="Version64" type="int64" value="36310287028060179" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="BetterTargetInfo_1186f940-7338-fe24-6649-aff698541b7f" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Better Target Info" />
+              <attribute id="PublishHandle" type="uint64" value="4142479" />
+              <attribute id="UUID" type="guid" value="1186f940-7338-fe24-6649-aff698541b7f" />
+              <attribute id="Version64" type="int64" value="36310276290641920" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="BetterTopbar_d9582df8-6eef-a756-117f-965e22007ff6" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Better Topbar" />
+              <attribute id="PublishHandle" type="uint64" value="4208836" />
+              <attribute id="UUID" type="guid" value="d9582df8-6eef-a756-117f-965e22007ff6" />
+              <attribute id="Version64" type="int64" value="36310284880576515" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="BetterTradeMenu_1ae4224b-23fc-dafe-06e4-fb251d1919bd" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Better Trade Menu" />
+              <attribute id="PublishHandle" type="uint64" value="4212316" />
+              <attribute id="UUID" type="guid" value="1ae4224b-23fc-dafe-06e4-fb251d1919bd" />
+              <attribute id="Version64" type="int64" value="36451018073964548" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="BetterVariousWidgets_2f8f216d-dd2a-7731-cf1e-9d6bae9eb04a" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Better Various Widgets" />
+              <attribute id="PublishHandle" type="uint64" value="4218154" />
+              <attribute id="UUID" type="guid" value="2f8f216d-dd2a-7731-cf1e-9d6bae9eb04a" />
+              <attribute id="Version64" type="int64" value="36028809903865859" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="BetterSplitItem_76e493c7-d7f4-217f-2a3e-61e17c61dedf" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="BetterSplitItem" />
+              <attribute id="PublishHandle" type="uint64" value="4174758" />
+              <attribute id="UUID" type="guid" value="76e493c7-d7f4-217f-2a3e-61e17c61dedf" />
+              <attribute id="Version64" type="int64" value="36028812051349504" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="BetterTooltips_bc1081b4-e2a9-ce49-8b60-6f64b7eecce4" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="BetterTooltips" />
+              <attribute id="PublishHandle" type="uint64" value="4168834" />
+              <attribute id="UUID" type="guid" value="bc1081b4-e2a9-ce49-8b60-6f64b7eecce4" />
+              <attribute id="Version64" type="int64" value="36310280585609226" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="CPCCE_a2f25ffd-0c2f-4673-ad5d-bbe783e95564" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="CPCCE" />
+              <attribute id="PublishHandle" type="uint64" value="4202644" />
+              <attribute id="UUID" type="guid" value="a2f25ffd-0c2f-4673-ad5d-bbe783e95564" />
+              <attribute id="Version64" type="int64" value="36310278438125573" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="ClearMap_b8a896ff-621d-89d5-2fc5-f86f372b102d" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="ClearMap" />
+              <attribute id="PublishHandle" type="uint64" value="4174188" />
+              <attribute id="UUID" type="guid" value="b8a896ff-621d-89d5-2fc5-f86f372b102d" />
+              <attribute id="Version64" type="int64" value="36310280585609216" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="ContainersExtended_c52c2d4d-2aa1-e9ea-db5c-3b61d111ec16" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="ContainersExtended" />
+              <attribute id="PublishHandle" type="uint64" value="4213146" />
+              <attribute id="UUID" type="guid" value="c52c2d4d-2aa1-e9ea-db5c-3b61d111ec16" />
+              <attribute id="Version64" type="int64" value="36028797018963968" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="ContainersExtendedFix_af74a078-1993-007a-1be1-fcab86f8c698" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="ContainersExtendedFixed" />
+              <attribute id="PublishHandle" type="uint64" value="4326287" />
+              <attribute id="UUID" type="guid" value="af74a078-1993-007a-1be1-fcab86f8c698" />
+              <attribute id="Version64" type="int64" value="36028797018963970" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="CustomDicesInPassiveRolls_cecb3423-daf3-19e7-e5ae-3c005c531214" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Custom Dices In Passive Rolls" />
+              <attribute id="PublishHandle" type="uint64" value="4222734" />
+              <attribute id="UUID" type="guid" value="cecb3423-daf3-19e7-e5ae-3c005c531214" />
+              <attribute id="Version64" type="int64" value="36028803461414928" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="DamagePreview_0e6b886d-c51f-75fb-f9bd-cf9c0c363c5b" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Damage Preview" />
+              <attribute id="PublishHandle" type="uint64" value="4199596" />
+              <attribute id="UUID" type="guid" value="0e6b886d-c51f-75fb-f9bd-cf9c0c363c5b" />
+              <attribute id="Version64" type="int64" value="36028807756382208" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="DynamicSidebar_1e649013-e371-953e-3839-07f02fe1cffa" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Dynamic Sidebar" />
+              <attribute id="PublishHandle" type="uint64" value="4199791" />
+              <attribute id="UUID" type="guid" value="1e649013-e371-953e-3839-07f02fe1cffa" />
+              <attribute id="Version64" type="int64" value="36451020221448210" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="ModManagerFixesnTweaks_b535bdb7-2df5-cbe7-5012-ef366d124716" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Mod Manager Fixes And Tweaks" />
+              <attribute id="PublishHandle" type="uint64" value="4257372" />
+              <attribute id="UUID" type="guid" value="b535bdb7-2df5-cbe7-5012-ef366d124716" />
+              <attribute id="Version64" type="int64" value="36310284880576535" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="ModManagerMinorFixes_f69cbc0f-cbee-0801-01b9-e6b608381ca3" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Mod Manager Minor Fixes" />
+              <attribute id="PublishHandle" type="uint64" value="4201240" />
+              <attribute id="UUID" type="guid" value="f69cbc0f-cbee-0801-01b9-e6b608381ca3" />
+              <attribute id="Version64" type="int64" value="36310282733092881" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="NewLoadingScreens_ebf9214b-475d-a11b-ab7f-11c76b080123" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="NewLoadingScreens" />
+              <attribute id="PublishHandle" type="uint64" value="4159690" />
+              <attribute id="UUID" type="guid" value="ebf9214b-475d-a11b-ab7f-11c76b080123" />
+              <attribute id="Version64" type="int64" value="36732497345642496" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="SeluneDice_5feeed97-d8b8-044b-261a-e48f52497625" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="SeluneDice" />
+              <attribute id="PublishHandle" type="uint64" value="4188705" />
+              <attribute id="UUID" type="guid" value="5feeed97-d8b8-044b-261a-e48f52497625" />
+              <attribute id="Version64" type="int64" value="36028797018963968" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="VisibleShield_87d131a1-cf57-74b3-e113-30a226283be8" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="VisibleShield" />
+              <attribute id="PublishHandle" type="uint64" value="4250326" />
+              <attribute id="UUID" type="guid" value="87d131a1-cf57-74b3-e113-30a226283be8" />
+              <attribute id="Version64" type="int64" value="36028797018963969" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="EmbersLute_81466e63-9b81-1715-5188-5eecf54622e6" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Ember's Lute (A Music Performance Mod)" />
+              <attribute id="PublishHandle" type="uint64" value="4269486" />
+              <attribute id="UUID" type="guid" value="17ed9aa5-40e7-4c49-ac10-a0feb1ffeaa9" />
+              <attribute id="Version64" type="int64" value="72057594037928020" />
+            </node>
+            <node id="ModuleShortDesc">
+              <attribute id="Folder" type="LSString" value="EmberLute_UndeadViolin_eedc65fd-6c9c-f0ba-8f89-31e0bd7b0566" />
+              <attribute id="MD5" type="LSString" value="" />
+              <attribute id="Name" type="LSString" value="Haunted Instruments" />
+              <attribute id="PublishHandle" type="uint64" value="4317312" />
+              <attribute id="UUID" type="guid" value="f54e6e99-44dd-4d32-a5f4-4620f2f03f3d" />
+              <attribute id="Version64" type="int64" value="72057596185411595" />
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
